@@ -1,0 +1,52 @@
+{
+    "discography":[{
+        "band":"Queens of the Stone Age",
+        "album":"Queens of the Stone Age",
+        "shortname":"stone_age",
+        "type":"jpg",
+        "description":"First Album",
+        "artwork":["stone_age.jpg"]
+        },{
+        "band":"Queens of the Stone Age",
+        "album":"Rated R",
+        "shortname":"rated_r",
+        "type":"png",
+        "description":"Second Album",
+        "artwork":["rated_r.png"]
+        },{
+        "band":"Queens of the Stone Age",
+        "album":"Songs For The Deaf",
+        "shortname":"songs_deaf",
+        "type":"png",
+        "description":"Third Album",
+        "artwork":["songs_deaf.png"]
+        },{
+        "band":"Queens of the Stone Age",
+        "album":"Lullabies To Paralyze",
+        "shortname":"lullaby_paralyze",
+        "type":"jpg",
+        "description":"Fourth Album",
+        "artwork":["lullaby_paralyze.jpg"]
+        },{
+        "band":"Queens of the Stone Age",
+        "album":"Era Vulgaris",
+        "shortname":"era_vulgaris",
+        "type":"jpg",
+        "description":"Fifth Album",
+        "artwork":["era_vulgaris.jpg"]
+        },{
+        "band":"Queens of the Stone Age",
+        "album":"...Like Clockwork",
+        "shortname":"like_clockwork",
+        "type":"png",
+        "description":"Sixth Album",
+        "artwork":["like_clockwork.png"]
+        },{
+        "band":"Queens of the Stone Age",
+        "album":"Villians",
+        "shortname":"villians",
+        "type":"png",
+        "description":"Seventh Album",
+        "artwork":["villians.png"]
+    }]
+}
