@@ -1,6 +1,7 @@
 const express = require('express');
-
 const app = express();
+
+var data = require('./data.data.json');
 
 
 
